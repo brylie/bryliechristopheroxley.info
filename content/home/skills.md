@@ -15,6 +15,30 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "globe-europe"
+  icon_pack = "fas"
+  name = "Ecology"
+  #description = "10%"
+
+[[feature]]
+  icon = "music"
+  icon_pack = "fas"
+  name = "Music"
+  #description = "10%"
+
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  #description = "10%"
+
+[[feature]]
+  icon = "map-marker-alt"
+  icon_pack = "fas"
+  name = "GIS"
+  #description = "10%"
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
@@ -25,17 +49,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   #description = "100%"
-
-[[feature]]
-  icon = "music"
-  icon_pack = "fas"
-  name = "Music"
-  #description = "10%"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  #description = "10%"
 
 +++
