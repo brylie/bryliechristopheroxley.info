@@ -24,7 +24,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  #description = "100%"  
+  #description = "100%"
+
+[[feature]]
+  icon = "music"
+  icon_pack = "fas"
+  name = "Music"
+  #description = "10%"
   
 [[feature]]
   icon = "camera-retro"
